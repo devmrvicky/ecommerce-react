@@ -1,24 +1,53 @@
-import Wishlist from "../assets/Wishlist.png";
-import cart from "../assets/cart.png";
-import searchIcon from "../assets/search-icon.png";
+import { NavLink } from "react-router-dom";
+import Wishlist from "../../assets/Wishlist.png";
+import cart from "../../assets/cart.png";
+import searchIcon from "../../assets/search-icon.png";
 
 const Nav = () => {
   return (
     <nav className="border-b py-3 bg-white">
       <div className="container flex justify-between items-center">
         <h1 className="text-2xl">Logo</h1>
-        <ul className="flex items-center gap-10 text-base">
-          <li className="hover:text-bgDark/50">
-            <a href="/">Home</a>
+        <ul className="flex items-center gap-10 text-base select-none">
+          <li>
+            <NavLink
+              to="/"
+              className={({ isActive }) =>
+                isActive ? "text-bgDark/50 border-b" : "hover:text-bgDark/50"
+              }
+            >
+              Home
+            </NavLink>
           </li>
-          <li className="hover:text-bgDark/50">
-            <a href="/contact">Contact</a>
+          <li>
+            <NavLink
+              to="/contact"
+              className={({ isActive }) =>
+                isActive ? "text-bgDark/50 border-b" : "hover:text-bgDark/50"
+              }
+            >
+              Contact
+            </NavLink>
           </li>
-          <li className="hover:text-bgDark/50">
-            <a href="/about">About</a>
+          <li>
+            <NavLink
+              to="/about"
+              className={({ isActive }) =>
+                isActive ? "text-bgDark/50 border-b" : "hover:text-bgDark/50"
+              }
+            >
+              About
+            </NavLink>
           </li>
-          <li className="hover:text-bgDark/50">
-            <a href="/sign-up">Sign up</a>
+          <li>
+            <NavLink
+              to="/signup"
+              className={({ isActive }) =>
+                isActive ? "text-bgDark/50 border-b" : "hover:text-bgDark/50"
+              }
+            >
+              Sign up
+            </NavLink>
           </li>
         </ul>
         <div className="nav-right flex gap-3">
