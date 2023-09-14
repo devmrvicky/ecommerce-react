@@ -3,6 +3,12 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      container: {
+        width: "100%,",
+        maxW: "1440px",
+        // marginInline: "auto",
+        center: true,
+      },
       colors: {
         primary: "#fff",
         primary1: "#FAFAFA",
@@ -10,6 +16,7 @@ export default {
         secondary1: "#FEFAF1",
         secondary2: "#DB4444",
         bg: "#fff",
+        bgDark: "#000",
         text: "#FAFAFA",
         text1: "#7D8184",
         text2: "#000",

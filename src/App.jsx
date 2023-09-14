@@ -1,5 +1,15 @@
+import Footer from "./components/footer/Footer";
+import Nav from "./components/Nav";
+import TopMessage from "./components/TopMessage";
+
 function App() {
-  return <h1 className="bg-secondary1 text-button1 p-2">vite config</h1>;
+  return (
+    <>
+      <TopMessage />
+      <Nav />
+      <Footer />
+    </>
+  );
 }
 
 export default App;
