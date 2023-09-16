@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1234,
+    "name": "The north coat",
+    "price": 360,
+    "discount": null,
+    "total_rated_people": 65,
+    "total_stars": 5,
+    "img": "../src/assets/the-North-Face-x-Gucci-coat 1.png"
+  },
+  {
+    "id": 12345,
+    "name": "Gucci duffle bag",
+    "price": 1160,
+    "discount": null,
+    "total_rated_people": 65,
+    "total_stars": 4.5,
+    "img": "../src/assets/Light-Gucci-Savoy-medium-duffle-bag 1.png"
+  },
+  {
+    "id": 12346,
+    "name": "RGB liquid CPU Cooler",
+    "price": 170,
+    "discount": null,
+    "total_rated_people": 65,
+    "total_stars": 4.5,
+    "img": "../src/assets/g27cq4-500x500 1.png"
+  },
+  {
+    "id": 12347,
+    "name": "Small BookSelf",
+    "price": 360,
+    "discount": null,
+    "total_rated_people": 65,
+    "total_stars": 5,
+    "img": "../src/assets/sam-moghadam-khamseh-L_7MQsHl_aU-unsplash 1.png"
+  },
+  {
+    "id": 12348,
+    "name": "HAVIT HV G92 Gamepad",
+    "price": 500,
+    "discount": null,
+    "total_rated_people": 99,
+    "total_stars": 4.5,
+    "img": "../src/assets/ak-900-01-500x500 1.png"
+  },
+  {
+    "id": 12349,
+    "name": "HAVIT HV G92 Gamepad",
+    "price": 160,
+    "discount": null,
+    "total_rated_people": 88,
+    "total_stars": 5,
+    "img": "../src/assets/g92-2-500x500 1.png"
+  },
+  {
+    "id": 123410,
+    "name": "AK-900 Wired Keyboard",
+    "price": 1160,
+    "discount": null,
+    "total_rated_people": 75,
+    "total_stars": 4,
+    "img": "../src/assets/ak-900-01-500x500 1.png"
+  },
+  {
+    "id": 123411,
+    "name": "IPS LCD Gaming Monitor",
+    "price": 400,
+    "discount": null,
+    "total_rated_people": 99,
+    "total_stars": 5,
+    "img": "../src/assets/g27cq4-500x500 1.png"
+  },
+  {
+    "id": 123412,
+    "name": "HAVIT HV G92 Gamepad",
+    "price": 400,
+    "discount": null,
+    "total_rated_people": 99,
+    "total_stars": 4.5,
+    "img": "../src/assets/ak-900-01-500x500 1.png"
+  },
+  {
+    "id": 123413,
+    "name": "HAVIT HV G92 Gamepad",
+    "price": 500,
+    "discount": null,
+    "total_rated_people": 99,
+    "total_stars": 4.5,
+    "img": "../src/assets/ak-900-01-500x500 1.png"
+  },
+  {
+    "id": 123414,
+    "name": "Breed Dry Dog Food",
+    "price": 100,
+    "discount": null,
+    "total_rated_people": 35,
+    "total_stars": 3,
+    "img": "../src/assets/71RdoeXxtrL 1.png"
+  },
+  {
+    "id": 123415,
+    "name": "CANON EOS DSLR Camera",
+    "price": 360,
+    "discount": null,
+    "total_rated_people": 95,
+    "total_stars": 4,
+    "img": "../src/assets/camera.png"
+  },
+  {
+    "id": 123416,
+    "name": "ASUS FHD Gaming Laptop",
+    "price": 700,
+    "discount": null,
+    "total_rated_people": 325,
+    "total_stars": 5,
+    "img": "../src/assets/ideapad-gaming-3i-01-500x500 1.png"
+  },
+  {
+    "id": 123417,
+    "name": "Curolgy Product Set",
+    "price": 500,
+    "discount": null,
+    "total_rated_people": 145,
+    "total_stars": 4,
+    "img": "../src/assets/curology-j7pKVQrTUsM-unsplash 1.png"
+  },
+  {
+    "id": 123418,
+    "name": "Quilted Satin Jacket",
+    "price": 660,
+    "discount": null,
+    "total_rated_people": 55,
+    "total_stars": 4.5,
+    "img": "../src/assets/Light-Reversible-quilted-satin-jacket 1.png"
+  },
+  {
+    "id": 123419,
+    "name": "GP11 Shooter USB Gamepad",
+    "isNew": true,
+    "price": 660,
+    "discount": null,
+    "total_rated_people": 55,
+    "total_stars": 4.5,
+    "img": "../src/assets/GP11_PRD3 1.png"
+  },
+  {
+    "id": 123420,
+    "name": "Jr. Zoom Soccer Cleats",
+    "price": 1160,
+    "discount": null,
+    "total_rated_people": 35,
+    "total_stars": 5,
+    "img": "../src/assets/shoes.png"
+  },
+  {
+    "id": 123421,
+    "name": "Kids Electric Car",
+    "isNew": true,
+    "price": 960,
+    "discount": null,
+    "total_rated_people": 65,
+    "total_stars": 5,
+    "img": "../src/assets/shoes.png"
+  }
+]

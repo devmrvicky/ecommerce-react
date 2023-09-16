@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1234,
+    "name": "HAVIT HV G92 Gamepad",
+    "price": 160,
+    "discount": 40,
+    "total_rated_people": 88,
+    "total_stars": 5,
+    "img": "../src/assets/g92-2-500x500 1.png"
+  },
+  {
+    "id": 12345,
+    "name": "AK-900 Wired Keyboard",
+    "price": 1160,
+    "discount": 35,
+    "total_rated_people": 75,
+    "total_stars": 4,
+    "img": "../src/assets/ak-900-01-500x500 1.png"
+  },
+  {
+    "id": 12346,
+    "name": "IPS LCD Gaming Monitor",
+    "price": 400,
+    "discount": 30,
+    "total_rated_people": 99,
+    "total_stars": 5,
+    "img": "../src/assets/g27cq4-500x500 1.png"
+  },
+  {
+    "id": 12347,
+    "name": "HAVIT HV G92 Gamepad",
+    "price": 400,
+    "discount": 40,
+    "total_rated_people": 99,
+    "total_stars": 4.5,
+    "img": "../src/assets/ak-900-01-500x500 1.png"
+  },
+  {
+    "id": 12348,
+    "name": "HAVIT HV G92 Gamepad",
+    "price": 500,
+    "discount": 20,
+    "total_rated_people": 99,
+    "total_stars": 4.5,
+    "img": "../src/assets/ak-900-01-500x500 1.png"
+  }
+]
